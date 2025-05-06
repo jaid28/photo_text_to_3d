@@ -32,12 +32,12 @@ Add your own .jpg/.png images or .txt prompts to the input/ folder for testing.
 Run the main script with either an image or text input:
 
 For Image Input:
-  '''bash
-  python main.py --input input/sample.jpg --output output/model.obj
+```bash```
+python main.py --input input/sample.jpg --output output/model.obj
 
 For Text Input:
-  '''bash
-  python main.py --input input/prompt.txt --output output/model.stl
+```bash```
+python main.py --input input/prompt.txt --output output/model.stl
 
 ## Output:
 A 3D model is saved to the output/ folder (e.g., output/model.obj or output/model.stl).
