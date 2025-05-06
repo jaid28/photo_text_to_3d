@@ -1,0 +1,12 @@
+rembg==2.0.50
+opencv-python==4.8.0
+numpy==1.26.0
+trimesh==4.0.0
+pyrender==0.1.45
+torch==2.0.1
+transformers==4.35.0
+Pillow==10.0.0
+open3d==0.18.0
+matplotlib==3.8.0
+# Optional (if using Shap-E):
+# git+https://github.com/openai/shap-e.git
