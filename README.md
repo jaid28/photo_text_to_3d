@@ -33,7 +33,7 @@ Run the main script with either an image or text input:
 
 For Image Input:
 ```bash
-python main.py --input input/sample.jpg --output output/model.obj
+python main.py --input input/chair.jpg --output output/model.obj
 ```
 
 For Text Input:
